@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Key Features:
+
+- 🚀 Tech stack: Next.js, React, Tailwind & Shadcn UI
+- 🎙️ Voice AI Assistant (Vapi)
+- 🧠 LLM Integration (Gemini AI)
+- 🏋️ Personalized Workout Plans
+- 🥗 Custom Diet Programs
+- 🔒 Authentication & Authorization (Clerk)
+- 💾 Database (Convex)
+- 🎬 Real-time Program Generation
+- 💻 Layouts
+- 🎭 Client & Server Components
